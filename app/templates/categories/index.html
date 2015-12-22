@@ -1,37 +1,14 @@
-<md-card>
+<md-card ng-repeat="category in categories">
 	<md-content class="md-padding">
 		<img ng-src="img/service_all_bg.png" class="md-card-img" style="background-color:rgb(29, 49, 95)">
-    <span class="md-title">Popular Services</span>
+    <span class="md-title">{{category.name}}</span>
   </md-content>
   <div layout="row">
-		<md-card flex="20">
+		<md-card flex="20" ng-repeat="service in category.services">
 			<md-content class="md-padding">
-		    <span class="md-title">Laundry</span>
-		  </md-content>
-		</md-card>
-		<md-card flex="20">
-			<md-content class="md-padding">
-				<img ng-src="img/bathroom_cleaning.png" class="md-card-img">
-		    <span class="md-title">Bathroom Cleaning</span>
-		  </md-content>
-		</md-card>
-		<md-card flex="20">
-			<md-content class="md-padding">
-		    <span class="md-title">Washing Maching repair</span>
+		    <span class="md-title">{{service}}</span>
 		  </md-content>
 		</md-card>
   </div>
-</md-card>
-
-<md-card>
-	<md-content class="md-padding">
-    <span class="md-title">Cleaning</span>
-  </md-content>
-</md-card>
-
-<md-card>
-	<md-content class="md-padding">
-    <span class="md-title">Repairs</span>
-  </md-content>
 </md-card>
 
