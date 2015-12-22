@@ -1,0 +1,14 @@
+.view-frame {
+	margin-top: 2%;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.md-toolbar {
+	background-color: rgb(29, 49, 95);
+}
+#sbricksHeader {
+	background-color: white;
+	height: 100%;
+	max-height: 100%;
+}
