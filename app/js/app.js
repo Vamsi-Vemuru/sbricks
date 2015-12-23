@@ -2,7 +2,7 @@
 
 /* App Module */
 
-var sbricksApp = angular.module('sbricksApp', ['ngMaterial','ngRoute','categoriesController']);
+var sbricksApp = angular.module('sbricksApp', ['ngMaterial', 'ngAria', 'ngRoute', 'categoriesController', 'sbricksServices']);
 
 sbricksApp.config(['$routeProvider',
   function($routeProvider) {
@@ -14,4 +14,4 @@ sbricksApp.config(['$routeProvider',
       otherwise({
         redirectTo: '/'
       });
-  }]);
+}]);

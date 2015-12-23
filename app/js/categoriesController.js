@@ -2,21 +2,6 @@
 
 var categoriesController = angular.module('categoriesController',[]);
 
-var categories = [
-	{
-		'name':'PoplarServices',
-	 	'services':['Laundry', 'Bathroom Cleaning','Washing Machine Repair']
-	},
-	{
-		'name':'Cleaning',
-		'services':['Laundry', 'Bathroom Cleaning','Washing Machine Repair']
-	}, 
-	{	
-		'name':'Repairs',
-		'services':['Laundry', 'Bathroom Cleaning','Washing Machine Repair']
-	}
-	];
-
-categoriesController.controller('CategoriesCardController',['$scope', function($scope) {
-	$scope.categories = categories;
+categoriesController.controller('CategoriesCardController',['$scope','Categories', function($scope, Categories) {
+	$scope.categories = Categories.query();
 }]);

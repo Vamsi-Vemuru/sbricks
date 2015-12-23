@@ -1,14 +1,17 @@
 <md-card ng-repeat="category in categories">
 	<md-content class="md-padding">
-		<img ng-src="img/service_all_bg.png" class="md-card-img" style="background-color:rgb(29, 49, 95)">
+		<img ng-src="{{category.imageurl}}" class="md-card-img" style="background-color:rgb(29, 49, 95)">
     <span class="md-title">{{category.name}}</span>
   </md-content>
-  <div layout="row">
-		<md-card flex="20" ng-repeat="service in category.services">
-			<md-content class="md-padding">
-		    <span class="md-title">{{service}}</span>
-		  </md-content>
-		</md-card>
-  </div>
+  <md-content>
+	  <div layout="row">
+			<md-card id="innercards" ng-repeat="service in category.services">
+				<md-content class="md-padding">
+					<img id="serviceThumbs"ng-src="{{service.imageurl}}" class="md-card-img">
+			    <span class="md-title">{{service.name}}</span>
+			  </md-content>
+			</md-card>
+	  </div>
+  </md-content>
 </md-card>
 

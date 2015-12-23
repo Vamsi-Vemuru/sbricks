@@ -1,0 +1,152 @@
+[
+	{
+		"name" : "Cleaning",
+		"imageurl" : "https://www.sbricks.com/assets/images/icons/category_icons/service_cleaning_bg.png",
+		"services" : [
+			{
+				"name" : "Home Clean",
+				"description" : "<p> <strong>HOME CLEANING</strong><br> <br> <strong>What are included in Home Cleaning?</strong></p> <ul> <li> <strong>Hall &amp; Bedrooms Cleaning</strong>: The rooms are cleared of cobwebs. External wardrobes, showcases, window sills, fixtures (ex: lights, fans, ACs) are dusted. The floors are dry and wet mopped with disinfectants. Carpets and sofas are vacuumed.</li> <br> <li> <strong>Kitchen Cleaning</strong>: Cobwebs are cleared. Counter tops, sink, externals of kitchen appliances and cabinets are wiped clean. Scrubbing is done on tiles and flooring. The entire kitchen floor is wet mopped with disinfectants. Oil stains and grime are removed.</li> <br> <li> <strong>Bathrooms Cleaning</strong>: Cobwebs are cleared. Counter tops, window sills, window grills, ventilators, wash-basin, faucets, mirrors, tubs, shower cubicles, tiles, WC are sanitized &amp; cleaned thoroughly. The glass panels are wiped neat.</li> <br> </ul>",
+				"price" : "2000",
+				"imageurl" : "https://www.sbricks.com/assets/images/icons/services_icons/cleaning.png"
+			},
+			{
+				"name" : "S Clean",
+				"description" : "<p> <strong>S CLEAN</strong><br> <br> This is an innovative cleaning method incorporating state of the art equipment’s that uses just steam and clean water to create a powerful cleaning force. This method of cleaning easily removes stains, grime, bugs and fleas thereby sanitizing the area.<br> <br> Apart from S Bricks popular home cleaning service additional services in S Clean includes:<br> •&nbsp;&nbsp; &nbsp;Descaling the taps<br> •&nbsp;&nbsp; &nbsp;Scrubbing the floor using machines<br> •&nbsp;&nbsp;&nbsp; Vacuuming the carpets<br> •&nbsp;&nbsp; &nbsp;Buffing the tiles &amp; skirting<br> •&nbsp;&nbsp; &nbsp;Steam cleaning of glass panels and surfaces<br>",
+				"price" : "3500",
+				"imageurl" : "https://www.sbricks.com/assets/images/icons/services_icons/s_clean.png"
+			},
+			{
+				"name" : "Bathroom Clean",
+				"description" : "<p> <strong>BATHROOM CLEAN</strong></p> <p> &nbsp;</p> <p> <strong><strong>What is included in Bathroom Cleaning?</strong><br> &nbsp;</strong></p> <p> Bathroom cleaning service&nbsp; includes</p> <p> &nbsp;</p> <ul> <li> Cleaning the exterior of&nbsp; bathroom cabinets</li> <li> Wiping the mirrors clean</li> <li> Washing sinks,tiles,and faucets&nbsp;</li> <li> Disinfecting the toilet, tub, shower, and bathroom floor</li> </ul> <p> Regular follow-up cleanings are lighter and help&nbsp;you to avoid the mildew, mold, soap scum, and other buildup that can quickly occur in busy bathrooms .SBricks offers service providers having experience &amp; expertise to provide the highest quality in bathroom cleaning and free the bathrooms from foul odors.</p> <p> &nbsp;</p>",
+				"price" : "600",
+				"imageurl" : "https://www.sbricks.com/assets/images/icons/services_icons/bathroom_cleaning.png"
+			},
+			{
+				"name" : "Commercial Clean",
+				"description" : "<p><strong>HOME CLEANING</strong><br> <br> <strong>What are included in Home Cleaning?</strong></p> <ul> <li> <strong>Hall &amp; Bedrooms Cleaning</strong>: The rooms are cleared of cobwebs. External wardrobes, showcases, window sills, fixtures (ex: lights, fans, ACs) are dusted. The floors are dry and wet mopped with disinfectants. Carpets and sofas are vacuumed.</li> <br> <li> <strong>Kitchen Cleaning</strong>: Cobwebs are cleared. Counter tops, sink, externals of kitchen appliances and cabinets are wiped clean. Scrubbing is done on tiles and flooring. The entire kitchen floor is wet mopped with disinfectants. Oil stains and grime are removed.</li> <br> <li> <strong>Bathrooms Cleaning</strong>: Cobwebs are cleared. Counter tops, window sills, window grills, ventilators, wash-basin, faucets, mirrors, tubs, shower cubicles, tiles, WC are sanitized &amp; cleaned thoroughly. The glass panels are wiped neat.</li> <br> </ul>",
+				"price" : "3/sq.ft",
+				"imageurl" : "https://www.sbricks.com/assets/images/icons/services_icons/commercial_cleaning.png"
+			},
+			{
+				"name" : "Aquarium Clean",
+				"description" : "<p> <strong>AQUARIUM CLEAN</strong></p> <p> &nbsp;</p> <p> <strong>Why Aquarium Clean?</strong></p> <p> &nbsp;</p> <ul> <li> Good aquarium maintenance practices will lead to a healthy aquatic environment and thriving fish.</li> <li> We offer special aquarium cleaning services that makes your aquarium look clean and your fishes healthy.</li> <li> We make sure that while cleaning the aquarium no harm is done to the aquatic plants or animals.</li> <li> We use&nbsp; eco-friendly cleaning products for cleaning the aquariums.</li> </ul> <p> &nbsp;</p> <p> &nbsp;</p>",
+				"price" : "600",
+				"imageurl" : "https://www.sbricks.com/assets/images/icons/services_icons/aquarium_cleaning.png"
+			},
+			{
+				"name" : "UV Sterilization",
+				"description" : "<p> <strong>UV STERILIZATION</strong></p> <br> <p> <strong>PROCESS</strong></p> <br> <ul> <li> Bed sheet and mattress protector will be stripped from the mattress.</li> <li> Sterilization will be done with the UV rays machine on the top side (foam side) of the mattress</li> <li> Vacuuming and UV rays’ application will be done at same time</li> <li> After cleaning collected dust and dirt will be trashed.</li> <li> Replacement of mattress protector and bed sheet will be customer scope</li> </ul><br> <p> <strong>ADVANTAGE</strong></p> <br> <ul> <li> Dry and Chemical Free Process. (Stains will not be removed.)</li> <li> UV-C Sterilization. (Contaminants, Allergens and Pathogens will be removed.)</li> <li> Deep Extraction</li> <li> 15 to 20 minutes of process time.</li> <li> Mattress can be used immediately after the process is complete</li> </ul><br> <p> Extraction will be done from foam side and not the coir side.</p>",
+				"price" : "500",
+				"imageurl" : "https://www.sbricks.com/assets/images/icons/services_icons/uv_clean.png"
+			},
+			{
+				"name" : "Pest Control",
+				"description" : "<p> <strong>PEST CONTROL</strong></p> <p> Our residential services are tailored to your pest control needs.</p> <p> Our Pest Control service has a staff of certified pest control technicians ready to solve any residential pest control problem that you may encounter.</p> <p> &nbsp;</p> <p> <strong>Why Pest Control?</strong></p> <p> &nbsp;</p> <ul> <li> Pests in your home are not just an annoyance, but can pose some serious health problems as well.</li> <li> They can carry hundreds of diseases, cause human or pet injury, and damage your home, furniture, cabinets and belongings.</li> <li> Our Pest Control technicians are highly qualified to diagnose the exact pest problem that you may have and design a program to rid your home of the problem.</li> <li> Our trained service staffs know exactly how to rid your home of any pest problems.</li> <li> Our pest control programs and services will get your home pest-free quickly with little or no harmful chemicals.</li> </ul>",
+				"price" : "599",
+				"imageurl" : "https://www.sbricks.com/assets/images/icons/services_icons/pest-control.png"
+			},
+			{
+				"name" : "Upholstery Clean",
+				"description" : "<p> <strong>UPHOLSTERY CLEAN</strong><br> &nbsp;</p> <p> <strong>What are the advantages of Upholstery Clean?</strong></p> <p> &nbsp;</p> <ul> <li> We use the natural, eco-friendly carbonated cleaning solution to give the upholstery a deep, healthy clean.</li> <li> It works wonders on the upholstered furniture as well.</li> <li> Our upholstery cleaning process for furniture is safe for the entire family, dries faster and resists resoling.</li> <li> Envision millions of tiny bubbles working away at breaking up the dirt and grime trapped deep within the fibres of your upholstered furniture so that they can be easily whisked away.</li> <li> Our non-toxic cleaning solution revitalizes the furniture for a fresh, healthier, long lasting clean.</li> <li> This completely natural cleaning method works perfectly with all types of upholstered furniture materials.</li> <li> It’s because our cleaning process does not contain any soaps or detergents that can leave behind a sticky dirt-attracting residue.</li> <li> This makes the upholstery stay cleaner for longer periods.</li> </ul> <p> &nbsp;</p> <p> &nbsp;</p>",
+				"price" : "300",
+				"imageurl" : "https://www.sbricks.com/assets/images/icons/services_icons/upholstery.png"
+			},
+			{
+				"name" : "Chimney Clean",
+				"description" : "<p> <strong>CHIMNEY CLEAN</strong><br> </p><ul> <li>We provide a full range of chimney servicing, from chimney sweeping to complete chimney repair maintenance to inspections.</li> <li>Our goal is to provide our customers with a pleasant and easy experience that exceeds expectations every time.</li> <li>One thing we strive to do with our service is to guide you through the process of maintaining your chimney.</li> <li>We want every customer to feel happy and confident that you have made the best decision for your chimney and your home.</li> </ul> <p> <strong>What is included in Chimney Clean?</strong></p> <ul> <li>Inspections of a chimney</li> <li>Vacuuming</li> <li>Hand-brushing of the filters</li> <li>Hand-brushing of the smoke chamber and chimney flue</li> <li>Checking and cleaning of the chimney cap (if applicable)</li> </ul> <p> All the services are been carried out by professionally trained people.<br> </p> <p> &nbsp;</p>",
+				"price" : "500",
+				"imageurl" : "https://www.sbricks.com/assets/images/icons/services_icons/chimney_clean.png"
+			},
+			{
+				"name" : "Car Clean",
+				"description" : "<p> <strong>CAR CLEAN</strong><br> <br> &nbsp;</p> <p> <strong>What is included in </strong><strong>Car Clean?</strong><br> &nbsp;</p> <p> •&nbsp;&nbsp; &nbsp;Complete Vacuuming of Interiors<br> •&nbsp;&nbsp; &nbsp;Cleaning and vacuuming both rubber &amp; fabric mats.<br> •&nbsp;&nbsp; &nbsp;Cleaning the side doors<br> •&nbsp;&nbsp; &nbsp;Dashboard cleaning and polishing<br> •&nbsp;&nbsp; &nbsp;Polishing is done for side door boards<br> •&nbsp;&nbsp; &nbsp;Cleaning and polishing the glass internals &amp; externals.<br> •&nbsp;&nbsp; &nbsp;Entire car polishing (colour) with chemicals<br> •&nbsp;&nbsp; &nbsp;Cleaning and polishing the tyre rims&nbsp;&nbsp;</p> <p> &nbsp;</p> <p> Standard international chemicals and procedures are followed for water less car cleaning; this type of cleaning provides more shine and protection from colour fading.<br> <br> <br> &nbsp;</p>",
+				"price" : "499",
+				"imageurl" : "https://www.sbricks.com/assets/images/icons/services_icons/car-wash.png"
+			},
+			{
+				"name" : "Car Clean - Monthly Pack",
+				"description" : "<p> <strong>CAR CLEAN-Monthly Pack</strong></p> <p> <br> <br> The monthly service includes:&nbsp;</p> <ul> <li> The&nbsp; outer body of the car would be&nbsp; cleaned daily (except Sundays&amp; Public Holidays)</li> <li> Every 15 days interiors of the car would be cleaned.</li> </ul> <p> Standard international chemicals and procedures are followed for water less car cleaning.This type of cleaning provides more shine and protection from color fading.</p> <p> <br> <br> &nbsp;</p>",
+				"price" : "750",
+				"imageurl" : "https://www.sbricks.com/assets/images/icons/services_icons/monthly_car_cleaning.png"
+			},
+			{
+				"name" : "Gardening",
+				"description" : "<p> <strong>GARDENING</strong></p> <p> <strong>What we do in gardening?</strong></p> <ul> <li> Mowing &amp; Edging</li> <li> Weed Control</li> <li> Lawn Care</li> <li> Pruning</li> <li> Fertiliser &amp; insecticides application( fertilisers &amp; insecticides should be provided)</li> </ul> <p> The customer will be charged based on the number of days he requires the gardener to finish the work.The working hours for each day would be around 7 hrs.</p> <p> &nbsp;</p> <p> &nbsp;</p>",
+				"price" : "500",
+				"imageurl" : "https://www.sbricks.com/assets/images/icons/services_icons/gardener.png"
+			}
+		]
+	},
+	{
+		"name" : "Repair",
+		"imageurl" : "https://www.sbricks.com/assets/images/icons/category_icons/service_repairs_bg.png",
+		"services" : [
+			{
+				"name" : "Mason",
+				"description" : "<p> <strong>MASON</strong></p> <p> &nbsp;</p> <p> All works related to</p> <p> &nbsp;</p> <ul> <li> Concrete</li> <li> Side wall construction</li> <li> Flooring</li> <li> Spreading, levelling, and smoothening the concrete</li> <li> Minor &amp; Major construction works</li> <li> Cement Plastering</li> <li> Indoor &amp; Outdoor works</li> </ul> <p> <br> <br> will be undertaken by skilled personnel who will complete the job efficiently without any hassles.</p> <p> &nbsp;</p> <p> &nbsp;</p>",
+				"price" : "500",
+				"imageurl" : "https://www.sbricks.com/assets/images/icons/services_icons/mason.png"
+			},
+			{
+				"name" : "Plumber",
+				"description" : "<p> <strong>PLUMBER</strong></p> <p> &nbsp;</p> <p> Plumbing services like</p> <ul> <li> Attending to leakages</li> <li> Tap and faucet fixing</li> <li> Bathroom repairs</li> <li> Clearing blocked drains</li> <li> Installations</li> <li> Repairs and replacements</li> </ul> <p> &nbsp;</p> <p> Will be undertaken by professional service providers.</p> <p> The prices mentioned are for&nbsp; 1 hour service visit. The final pricing depends on the type of work, the spare parts used and the number of hours taken to finish the work. For each extra hour Rs. 150/- will be charged.</p> <p> &nbsp;</p>",
+				"price" : "150",
+				"imageurl" : "https://www.sbricks.com/assets/images/icons/services_icons/plumber.png"
+			},
+			{
+				"name" : "Electrician",
+				"description" : "<p> <strong>ELECTRICIAN</strong><br> <br> Electrical services like<br> <br> <strong>•&nbsp;</strong>&nbsp; &nbsp;Switch &amp; Fuse repairs<br> •&nbsp;&nbsp; &nbsp;Fan installations<br> •&nbsp;&nbsp; &nbsp;Light fixtures<br> •&nbsp;&nbsp; &nbsp;Home wiring<br> •&nbsp;&nbsp; &nbsp;Indoor and outdoor lighting<br> •&nbsp;&nbsp; &nbsp;Phone and inverter wiring<br> •&nbsp;&nbsp; &nbsp;Appliance maintenance service, etc.<br> <br> Will be undertaken by professional and efficient electricians.<br> <br> The prices mentioned are for&nbsp; 1 hour service visit. The final pricing depends on the type and amount of time taken to finish the work. For each extra hour Rs 150/- will be charged.<br> <br> &nbsp;</p>",
+				"price" : "150",
+				"imageurl" : "https://www.sbricks.com/assets/images/icons/services_icons/electrical.png"
+			},
+			{
+				"name" : "Carpenter",
+				"description" : "<p> <strong>CARPENTER</strong></p> <p> Carpentry works like fixing</p> <ul> <li> Handles</li> <li> Doors&nbsp;</li> <li> Hinges</li> <li> Cabinets etc</li> </ul> <p> will be taken up. &nbsp;All minor fixes, major renovations and installations will also be done by dedicated and trained &nbsp;service providers.</p> <p> The prices mentioned are for&nbsp; 1&nbsp; hour service visit. The final pricing depends on the type and amount of time taken to finish the work.For each extra hour Rs 150/- will be charged.</p> <p> &nbsp;</p>",
+				"price" : "150",
+				"imageurl" : "https://www.sbricks.com/assets/images/icons/services_icons/carpenter.png"
+			},
+			{
+				"name" : "Painter",
+				"description" : "<p> <strong>PAINTER</strong></p> <p> &nbsp;</p> <p> Your home is your most important asset and maintaining it is vital in upholding and<br> increasing its value.</p> <p> As a full service work we provide you&nbsp;</p> <p> &nbsp;</p> <ul> <li> A superior &amp; professional painting experience</li> <li> Interior/exterior painting</li> <li> Dry wall painting &amp; repair</li> <li> Pressure washing and color consulting.</li> </ul> <p> &nbsp;</p> <p> All the works are been carried out by experts which are professionally trained in this field.<br> <br> Here we provide you with not only residential painting services but also&nbsp; commercial services.<br> <br> &nbsp;</p>",
+				"price" : "500",
+				"imageurl" : "https://www.sbricks.com/assets/images/icons/services_icons/painting.png"
+			},
+			{
+				"name" : "AC Maintenance",
+				"description" : "<p> <strong>AC MAINTENANCE</strong><br> &nbsp;</p> <p> <strong>What is AC Maintenance?</strong></p> <p> &nbsp;</p> <p> Window and Split AC</p> <p> <br> •&nbsp;&nbsp; &nbsp;Installations<br> •&nbsp;&nbsp; &nbsp;Servicing<br> •&nbsp;&nbsp; &nbsp;Repairs<br> •&nbsp;&nbsp; &nbsp;Dismantling<br> •&nbsp;&nbsp; &nbsp;Fixing<br> •&nbsp;&nbsp; &nbsp;Gas filling works<br> <br> Will be undertaken at both residential and commercial levels.<br> <br> <br> <br> &nbsp;</p>",
+				"price" : "449",
+				"imageurl" : "https://www.sbricks.com/assets/images/icons/services_icons/ac_maintenance.png"
+			},
+			{
+				"name" : "UPS Servecing",
+				"description" : "<p> <strong>UPS SERVICING<br> <br> <br> What we do?</strong><br> <br> •&nbsp;&nbsp;&nbsp; UPS maintenance<br> •&nbsp;&nbsp;&nbsp; Replacements<br> •&nbsp;&nbsp;&nbsp; Installations<br> <br> Will be undertaken by professional service personnel.<br> <br> &nbsp;</p> <p> <br> <br> &nbsp;</p>",
+				"price" : "500",
+				"imageurl" : "https://www.sbricks.com/assets/images/icons/services_icons/ups_service.png"
+			},
+			{
+				"name" : "Appliances",
+				"description" : "<p> <strong>APPLIANCES</strong><br> <br> Repairs, servicing, installations for different types of appliances like</p> <ul> <li> Microwaves</li> <li> Television sets</li> <li> Refrigerators</li> <li> Washing Machines</li> <li> Water Purifiers</li> <li> Computer Hardware</li> <li> Home theatre set ups.</li> </ul> <p> <br> will be undertaken by experienced &amp; professional service providers. All types of brands will be serviced by us.<br> <br> <br> &nbsp;</p>",
+				"price" : "500",
+				"imageurl" : "https://www.sbricks.com/assets/images/icons/services_icons/appliances.png"
+			},
+			{
+				"name" : "Home Automation",
+				"description" : "<p> <strong>HOME AUTOMATION</strong><br></p> <ul> <li>Automation can turn any home into a 'smart, intelligent' home easily and at affordable price.</li> <li>Home Automation helps to control your home from anywhere in the world.</li> <li>Entry access, window shades, home lighting, ACs, CCTV cameras for security and surveillance and other electronic devices can be automated effortlessly.</li> <li>We provide expert advice for a nominal visitation charge.</li><br> </ul>",
+				"price" : "750",
+				"imageurl" : "https://www.sbricks.com/assets/images/icons/services_icons/home_automation.png"
+			}
+		]
+	},
+	{
+		"name" : "Popular Services",
+		"imageurl" : "https://www.sbricks.com/assets/images/icons/category_icons/service_all_bg.png",
+		"services" : [
+			{
+				"name" : "Laundry",
+				"description" : "<p> <strong>LAUNDRY</strong></p> <br> <ul> <li> All clothes are washed and ironed to make them super clean, fragrant and crease free.</li> <li> Dry cleaning services are provided under expert supervision.</li> <li> The clothes will be picked up &amp; delivered by our reliable service providers at your convenient time.</li> </ul>",
+				"price" : "250",
+				"imageurl" : "https://www.sbricks.com/assets/images/icons/services_icons/laundry.png"
+			}
+		]
+	}
+]
